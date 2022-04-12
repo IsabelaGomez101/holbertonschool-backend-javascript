@@ -9,7 +9,7 @@
         <em>For this project, students are expected to look at these concepts:</em>
       </p>
 
-      <ul>
+<ul>
           <li>
             <a href="/concepts/541">Modern Javascript</a>
           </li>
